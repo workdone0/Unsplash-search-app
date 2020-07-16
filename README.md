@@ -1,5 +1,8 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## NOTE :- CREATE A API KEY AND PASTE INSIDE 'src/api/unsplash.js'.
+### TO CREATE A API KEY VISIT [UNSPLASH](https://unsplash.com/developers)  
+
 ## Available Scripts
 
 In the project directory, you can run:
